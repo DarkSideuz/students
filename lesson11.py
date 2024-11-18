@@ -27,7 +27,7 @@ cursor.execute(
         ('Vali', 22 , 90),
         ('Oleg', 20 , 75);
         
-        select age , grade from students where age > 0;
+        select age , grade from students where age > 21;
         
         
         update students
